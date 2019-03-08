@@ -1,0 +1,21 @@
+title: Local repository
+tagline: A starter repo for you to practice local and advanced Git operations
+description: A starter repo for you to practice local and advanced Git operations
+template:
+    name: local-repo
+    repo: local-repo-template
+
+before:
+  # Create issue one for GitHub Pages
+  - type: createIssue
+    title: Welcome
+    body: welcome.md
+
+# Repo artifacts:
+# 1. Issue: Welcome
+
+steps:
+  # 1
+  - title: Close this issue
+    description: Close this issue
+    event: issues.closed

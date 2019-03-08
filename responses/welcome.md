@@ -1,0 +1,1 @@
+Welcome! This is intended to be a repository you work in locally. Follow the instructions in [the training manual](https://githubtraining.github.io/training-manual/#/18_create_local_repo).
