@@ -1,1 +1,3 @@
-Welcome! This is intended to be a repository you work in locally. Follow the instructions in [the training manual](https://githubtraining.github.io/training-manual/#/18_create_local_repo).
+Welcome! This repository is intended only for local use. You can push work back to GitHub if you'd like, but the Learning Lab bot will not respond. 
+
+See full instructions in [the training manual](https://githubtraining.github.io/training-manual/#/19_fixing_commit_mistakes).
