@@ -15,7 +15,9 @@ before:
 # 1. Issue: Welcome
 
 steps:
+
   # 1
-  - title: Close this issue
-    description: Close this issue
-    event: issues.closed
+- title: Close this issue
+  description: Close this issue
+  link: '{{ repoUrl }}/issues/1'
+  event: issues.closed
