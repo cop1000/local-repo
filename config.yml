@@ -17,7 +17,7 @@ before:
 steps:
 
   # 1
-- title: Close this issue
-  description: Close this issue
+- title: Work locally
+  description: See the first issue in the course repository for instructions.
   link: '{{ repoUrl }}/issues/1'
   event: issues.closed
